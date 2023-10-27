@@ -18,5 +18,3 @@ At **Primeholding JSC**, I've evolved from an **Intern .NET Developer** to a **S
 ## Personal Interests
 
 My passion for technology doesn't stop at the office. I'm an avid explorer and innovator beyond the 9-to-5. I've established a tech-centric home lab where I experiment with everything from network management to local database administration. In my downtime, you'll find me indulging in my love for gaming, whether it's on my trusted PlayStation or the exciting Steamdeck.
-
-With a strong educational foundation, a successful career in software engineering, and an unquenchable curiosity, I'm always eager to embrace new challenges and uncover exciting opportunities in the ever-evolving world of technology.
