@@ -1,10 +1,8 @@
 +++
 title = "About me"
-description = "Hugo, the world's fastest framework for building websites"
 date = 2023-10-26T17:48:00+03:00
-aliases = ["about-me"]
-author = "lee.so" 
 draft = false
+aliases = ["about-me"]
 +++
 
 I'm Vidol Chalamov, a naturally curious individual with an insatiable appetite for technology. Born on 29th February 1996 in Plovdiv, Bulgaria, I've always been driven by a deep-seated passion for understanding and harnessing the power of innovation.

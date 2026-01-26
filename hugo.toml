@@ -1,7 +1,7 @@
 theme = 'hugo-paper'
 
 baseURL = 'https://chalamov.dev/'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'Vidol Chalamov'
 
 # disqusShortname = 'YOUR_DISQUS_SHORTNAME' # use disqus comments
