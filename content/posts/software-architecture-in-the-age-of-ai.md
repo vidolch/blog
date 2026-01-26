@@ -72,4 +72,4 @@ Lately, I've been experimenting with the Superpowers Claude Code plugin. For tho
 
 {{< figure src="/images/superpowers-tasks.png" >}}
 
-
+As a whole, I am pretty excited about what's next in this field; the pet projects are faster to spin than ever before, and I am looking forward to experimenting more with this tech.
