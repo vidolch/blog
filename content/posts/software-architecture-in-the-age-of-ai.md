@@ -1,6 +1,6 @@
 +++
 title = 'Software Architecture in the Age of AI'
-date = 2025-01-17T17:48:00+03:00
+date = 2025-01-26T09:00:00+03:00
 draft = false
 +++
 
